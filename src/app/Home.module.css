@@ -1,0 +1,55 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    background-color: #ff12;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .main {
+    padding: 0 20px;
+    flex-grow: 1;
+  }
+  
+  .title {
+    color: #333;
+    text-transform: uppercase;
+  }
+  
+  .content {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .likeButton {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .dislikeButton {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .likeButton:hover,
+  .dislikeButton:hover {
+    opacity: 0.8;
+  }
+  

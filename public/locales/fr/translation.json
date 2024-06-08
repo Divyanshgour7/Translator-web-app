@@ -1,0 +1,11 @@
+{
+    "Blog": "Je m'excuse pour mon ton grossier en parlant à notre client lors de l'appel vidéo d'hier. Après réflexion, je reconnais que non seulement je me suis présenté de manière non professionnelle, mais que j'ai également perturbé la productivité de la réunion en créant des tensions. Je vois que j’ai mis l’équipe et l’entreprise dans une situation difficile. \nJ'ai contacté en privé les membres de mon équipe qui étaient présents pour m'excuser personnellement de les avoir mis dans une situation inconfortable. Je m'engage à faire mieux dans les situations de forte pression et à apprendre des stratégies de résolution de conflits pour m'aider à communiquer conformément aux normes de notre entreprise.\n Je m'excuse sincèrement pour mon erreur et j'accepterai bien sûr les conséquences de mes actes.",
+    "language": "French",
+    "Like": "Comme",
+    "DisLike": "Ne pas aimer",
+    "Footer":"© 2023 Mon site Web",
+    "error": {
+      "required": "Ce champ est obligatoire",
+      "invalid": "Valeur invalide"
+    }
+  }

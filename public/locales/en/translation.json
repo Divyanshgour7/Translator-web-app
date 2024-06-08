@@ -1,0 +1,11 @@
+{
+    "Blog": "I apologize for my rude tone while talking to our client during yesterday’s video call. Upon further reflection, I recognize that I not only presented myself unprofessionally but also disrupted the meeting’s productivity by creating tension. I see that I’ve put the team and the company in a difficult situation. \nI’ve privately reached out to my team members who were present to personally apologize for putting them in an uncomfortable spot. I’m committed to doing better in high-pressure situations and learning conflict-resolution strategies to help me communicate according to our company standards.\n I sincerely apologize for my mistake and will, of course, accept the consequences of my actions.",
+    "language": "English",
+    "Like": "Like",
+    "DisLike": "DisLike",
+    "Footer": "© 2023 My Website",
+    "error": {
+      "required": "This field is required",
+      "invalid": "Invalid value"
+    }
+  }
